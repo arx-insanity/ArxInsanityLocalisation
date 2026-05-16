@@ -1,1 +1,1 @@
-For future demo in-game translations
+For future Arx Insanity (Demo) translations
