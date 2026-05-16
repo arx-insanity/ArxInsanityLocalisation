@@ -230,3 +230,275 @@ string="Censurado"
 
 [system_menus_options_interface_immersive_mode] //immersive mode widget main menu option, hidding HUD
 string="Modo Inmersivo (Interfaz Mínima)"
+
+// ArxLibertatis default Arx Insanity modifications
+
+[system_today]
+string="Hoy"
+[system_yesterday]
+string="Ayer"
+
+[system_monday]
+string="Lunes"
+[system_tuesday]
+string="Martes"
+[system_wednesday]
+string="Miércoles"
+[system_thursday]
+string="Jueves"
+[system_friday]
+string="Viernes"
+[system_saturday]
+string="Sábado"
+[system_sunday]
+string="Domingo"
+
+[system_january]
+string="Enero"
+[system_february]
+string="Febrero"
+[system_march]
+string="Marzo"
+[system_april]
+string="Abril"
+[system_may]
+string="Mayo"
+[system_june]
+string="Junio"
+[system_july]
+string="Julio"
+[system_august]
+string="Agosto"
+[system_september]
+string="Septiembre"
+[system_october]
+string="Octubre"
+[system_november]
+string="Noviembre"
+[system_december]
+string="Diciembre"
+
+[system_menus_main_quickloadsave]
+string="Guardado Rápido"
+
+[system_menus_options_video_antialiasing]
+string="Suavizado de Bordes"
+
+[system_menus_options_audio]
+string="Sonido"
+
+[system_menus_options_input_customize_controls_weapon] //Insanity modded
+string="Modo Combate"
+
+[system_menus_options_input_mouse_look_toggle] //Insanity modded
+string="Alternar Cámara Libre"
+
+[system_menus_options_localization]
+string="Idioma"
+
+[system_menus_options_render]
+string="Visuales"
+
+[system_menus_options_interface]
+string="Interfaz"
+
+[system_menus_options_video_resolution_desktop]
+string="Nativa"
+
+[system_menus_options_videos_minimize_on_focus_lost]
+string="Pausar el Juego en Segundo Plano"
+
+[system_menus_options_video_vsync]
+string="Sincronización Vertical"
+
+[system_menus_options_video_vsync_off]
+string="Desactivada"
+
+[system_menus_options_video_vsync_on]
+string="Activada"
+
+[system_menus_options_video_vsync_auto]
+string="Adaptativa"
+
+[system_menus_options_video_fps_limit]
+string="Límite de Cuadros Por Segundo"
+
+[system_menus_options_video_fps_limit_off]
+string="Desactivar"
+
+[system_menus_options_video_fps_limit_display]
+string="Pantalla"
+
+[system_menus_options_video_fov]
+string="Campo de Visión Horizontal"
+
+[system_menus_options_videos_view_bobbing]
+string="Movimiento de la Cabeza"
+
+[system_menus_options_videos_screen_shake]
+string="Temblores de la Pantalla"
+
+[system_menus_options_video_renderer]
+string="API Gráfica"
+
+[system_menus_options_video_colorkey_antialiasing]
+string="Suavizado Basado en Color"
+
+[system_menus_options_video_alpha_cutout_antialiasing] //Insanity modded
+string="Modo de Suavizado"
+
+[system_menus_options_video_alpha_cutout_antialiasing_off] //Insanity modded
+string="Desactivado"
+
+[system_menus_options_video_alpha_cutout_antialiasing_fuzzy] //Insanity modded
+string="Borroso"
+
+[system_menus_options_video_alpha_cutout_antialiasing_crisp] //Insanity modded
+string="Nítido"
+
+[system_menus_options_video_texture_filter_anisotropic]
+string="Filtrado Anisotrópico"
+
+[system_menus_options_video_filter_anisotropic_off]
+string="Desactivado"
+
+[system_menus_options_video_filter_anisotropic_max]
+string="Ilimitado"
+
+[system_menus_options_video_crosshair]
+string="Mira"
+
+[system_menus_options_interface_limit_speech_width]
+string="Auto-ajustar el Texto en Diálogos"
+
+[system_menus_options_interface_cinematic_widescreen_mode]
+string="Modo de las Ilustraciones"
+
+[system_menus_options_interface_letterbox]
+string="Bordes Duros (Completo)"
+
+[system_menus_options_interface_hard_edges]
+string="Pantalla Completa (Recortado)"
+
+[system_menus_options_interface_fade_edges]
+string="Desvanecer Bordes (Completo)"
+
+[system_menus_options_interface_hud_scale]
+string="Tamaño de la Interfaz"
+
+[system_menus_options_interface_hud_scale_integer]
+string="Ajuste del Tamaño de la Interfaz"
+
+[system_menus_options_interface_book_scale]
+string="Tamaño del Libro del Jugador"
+
+[system_menus_options_interface_book_scale_integer]
+string="Ajuste del Tamaño del Libro"
+
+[system_menus_options_interface_cursor_scale]
+string="Tamaño del Cursor"
+
+[system_menus_options_interface_cursor_scale_integer]
+string="Ajuste del Tamaño del Cursor"
+
+[system_menus_options_interface_scale_filter]
+string="Filtrado de Escalado"
+
+[system_menus_options_video_filter_nearest]
+string="Más Cercano"
+
+[system_menus_options_video_filter_bilinear]
+string="Bilineal"
+
+[system_menus_options_interface_font_size]
+string="Tamaño del Texto"
+
+[system_menus_options_interface_font_weight]
+string="Formato del Texto"
+
+[system_menus_options_interface_font_weight_0]
+string="Extra Ligero"
+
+[system_menus_options_interface_font_weight_1]
+string="Ligero"
+
+[system_menus_options_interface_font_weight_2]
+string="Normal"
+
+[system_menus_options_interface_font_weight_3]
+string="Medio"
+
+[system_menus_options_interface_font_weight_4]
+string="Negrita"
+
+[system_menus_options_interface_font_weight_5]
+string="Extra Negrita"
+
+[system_menus_options_audio_device]
+string="Dispositivo de Sonido"
+
+[system_menus_options_audio_mute_on_focus_lost]
+string="Silenciar Sonido en Segundo Plano"
+
+[system_menus_options_audio_eax]
+string="Audio en 3D EAX"
+
+[system_menus_options_audio_hrtf]
+string="Sonido Envolvente (No Estéreo)"
+
+[system_menus_options_auto_ready_weapon_off]
+string="Desactivar"
+
+[system_menus_options_auto_ready_weapon_enemies]
+string="Sólo Enemigos"
+
+[system_menus_options_auto_ready_weapon_always]
+string="Siempre"
+
+[system_menus_options_input_mouse_acceleration]
+string="Aceleración del Ratón"
+
+[system_menus_options_raw_mouse_input]
+string="Entrada Directa del Ratón"
+
+[system_menus_options_misc_quicksave_slots]
+string="Ranuras de Guardado Rápido"
+
+[system_menus_border_turning]
+string="Girar la Cámara en los Bordes"
+
+[system_menus_alt_rune_recognition]
+string="Reconocimiento de Runas Mejorado"
+
+[system_menus_alt_bow_aim]
+string="Apuntado del Arco Mejorado"
+
+[system_menus_quick_level_transition]
+string="Transición Rápida Entre Niveles"
+
+[system_menus_quick_level_transition_off]
+string="Desactivar"
+
+[system_menus_quick_level_transition_jump]
+string="Al Saltar"
+
+[system_menus_quick_level_transition_immediate]
+string="Inmediata"
+
+[system_menus_options_input_customize_controls_minimap]
+string="Minimapa"
+
+[system_menus_options_input_customize_controls_debug]
+string="Vista del Desarrollador"
+
+[system_menus_options_input_customize_controls_drink_potion_cure]
+string="Poción de Antídoto"
+
+[system_menus_options_input_customize_controls_toggle_fullscreen]
+string="Pantalla Completa"
+
+[system_menus_options_input_customize_controls_console]
+string="Consola de Comandos"
+
+[system_engine_out_of_bounds_items]
+string="Los objetos fuera del mapa se han colocado frente al jugador."
